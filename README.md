@@ -13,7 +13,7 @@ FLUSH PRIVILEGES;
 
 
 ```sh
-cd /var/www/html && apt install unzip -y && wget https://github.com/Penguinehis/GLTunnel/raw/main/htdocs.zip && unzip htdocs.zip && rm index.html htdocs.zip
+cd /var/www/html && apt install unzip -y && wget https://github.com/InfiniteNet/GLTunel/raw/main/htdocs.zip && unzip htdocs.zip && rm index.html htdocs.zip
 ```
 
 ```sh
